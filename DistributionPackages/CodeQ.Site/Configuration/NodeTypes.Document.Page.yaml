@@ -1,7 +1,0 @@
-'CodeQ.Site:Document.Page':
-  superTypes:
-    'CodeQ.Site:Document.AbstractPage': true
-  ui:
-    label: i18n
-    icon: file-o
-    position: 100

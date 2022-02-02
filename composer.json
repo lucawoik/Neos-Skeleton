@@ -9,7 +9,7 @@
         }
     },
     "require": {
-        "codeq/site": "@dev"
+        "skeleton/site": "@dev"
     },
     "repositories": {
         "distribution": {

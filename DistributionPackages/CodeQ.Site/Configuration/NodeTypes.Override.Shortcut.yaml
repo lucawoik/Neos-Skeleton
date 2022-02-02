@@ -1,5 +1,0 @@
-
-'Neos.Neos:Shortcut':
-  constraints:
-    nodeTypes:
-      'CodeQ.Site:Constraint.Document.Restricted': false

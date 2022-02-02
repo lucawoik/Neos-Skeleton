@@ -1,0 +1,9 @@
+prototype(Skeleton.Site:Component.Layout.Default) < prototype(Neos.Fusion:Component) {
+    content = ''
+
+    renderer = afx`
+        <Skeleton.Site:Component.Header />
+        {props.content}
+        <Skeleton.Site:Component.Footer />
+    `
+}

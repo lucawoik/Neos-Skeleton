@@ -1,0 +1,5 @@
+
+'Neos.Neos:Shortcut':
+  constraints:
+    nodeTypes:
+      'Skeleton.Site:Constraint.Document.Restricted': false
