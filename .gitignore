@@ -30,3 +30,6 @@ node_modules
 /.idea
 .remote-sync.json
 DistributionPackages/CodeQ.Site/.idea
+
+# Composer Lock-file
+/composer.lock
